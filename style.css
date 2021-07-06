@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.skip-color{
+    color:orange;
+}
+h1{
+    font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
+
+}
+.half-width{
+    width: 60%;
+    padding-left: 2%;
+  
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width img{
+    width: 50%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color:white ;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.about-me{
+    text-align: center;
+    color: orangered;
+}
+.middle-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    padding-left: 2%;
+}
